@@ -1,0 +1,7 @@
+# Python 运行后自动生成的缓存文件，不用传到 GitHub 上
+__pycache__/
+*.pyc
+
+# 虚拟环境（如果以后用到的话）
+venv/
+.venv/
