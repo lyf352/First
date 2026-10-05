@@ -1,6 +1,7 @@
 import pygame
 import random
 
+# 添加贪吃蛇游戏（pygame 版）
 # 窗口大小和格子大小
 WIDTH = 600
 HEIGHT = 600
